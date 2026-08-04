@@ -1,4 +1,5 @@
-<img width="2000" height="1300" alt="welcome_github_typography" src="https://github.com/user-attachments/assets/4eff6596-5c63-4757-b4a9-08dd1c60855f" />
+<img width="6000" height="4000" alt="codingnotjustcodebutart" src="https://github.com/user-attachments/assets/e4b9865f-97a5-4fa3-b326-337dac1dbd23" />
+
 
 ## <img src="https://komarev.com/ghpvc/?username=ahmadsofiangit&color=brightgreen" alt="watching_count" /> <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dahmadsofiangit&longCache=true"/> 
 

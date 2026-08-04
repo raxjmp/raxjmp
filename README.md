@@ -7,7 +7,6 @@
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@rcosb)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/retrobreado)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breadoinsta/)
-[![TikTok](https://img.shields.io/badge/Tiktok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@retro_breado_personal)
 
 ### Way to supporting me 💸
 <img width="128" height="128" alt="727036-y-hug-az" src="https://github.com/user-attachments/assets/6688720a-abb3-4e06-a9b6-767b87f65e35" />
